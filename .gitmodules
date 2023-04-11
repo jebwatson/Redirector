@@ -1,0 +1,6 @@
+[submodule "Redirector"]
+	path = Redirector
+	url = ./Redirector
+[submodule "Redirector.Console"]
+	path = Redirector.Console
+	url = ./Redirector.Console
